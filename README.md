@@ -6,6 +6,7 @@ An interactive site focused on teaching the basics of blockchain and cryptocurre
 
 ### ERD 
 ERD: https://dbdiagram.io/d/61748aab6239e146477f52b7
+[ERD-picture.png](https://postimg.cc/hzBJbbRf)
 
 ### Mockup 
 Mockup: https://www.figma.com/file/mkswy7P5OjBCSgf4C0uaQl/The-Satoshi-Era?node-id=0%3A1
