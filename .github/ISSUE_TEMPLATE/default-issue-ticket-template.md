@@ -9,13 +9,14 @@ assignees: ''
 
 ## Feature Summary
 
+***Given***  
 
+***When*** 
+
+***Then*** 
 
 ## Acceptance Criteria
 
 
 
 ## Technical Requirements
-- [ ] 
-- [ ]
-- [ ]
