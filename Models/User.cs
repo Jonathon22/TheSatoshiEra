@@ -8,7 +8,7 @@ namespace TheSatoshiEra.Models
     public class User
     {
         public Guid id { get; set; }
-        public Guid userTypeId { get; set; }
+        public Guid UserTypeId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }

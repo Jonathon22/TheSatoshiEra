@@ -7,8 +7,8 @@ namespace TheSatoshiEra.Models
 {
     public class LogOpened
     {
-        public Guid id { get; set; }
-        public Guid userId { get; set; }
+        public Guid Id { get; set; }
+        public Guid UserId { get; set; }
         public string NameOfLog { get; set; }
     }
 }
