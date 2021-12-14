@@ -7,12 +7,12 @@ namespace TheSatoshiEra.Models
 {
     public class TutorialVideos
     {
-        public Guid id { get; set; }
-        public Guid videoId { get; set; }
-        public Guid userId { get; set; }
-        public Guid libraryId { get; set; }
-        public Guid viewingId { get; set; }
-        public string videoUrl { get; set; }
-        public string description { get; set; }
+        public Guid Id { get; set; }
+        public Guid VideoId { get; set; }
+        public Guid UserId { get; set; }
+        public Guid LibraryId { get; set; }
+        public Guid ViewingId { get; set; }
+        public string VideoUrl { get; set; }
+        public string Description { get; set; }
     }
 }
