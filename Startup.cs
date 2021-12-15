@@ -30,6 +30,7 @@ namespace TheSatoshiEra
             services.AddSingleton<IConfiguration>(Configuration);
 
             services.AddTransient<UsersRepository>();
+            services.AddTransient<AboutRepository>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
