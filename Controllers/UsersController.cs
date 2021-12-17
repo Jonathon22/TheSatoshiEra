@@ -69,7 +69,7 @@ namespace TheSatoshiEra.Controllers
         }
 
         [HttpDelete("{id}")]
-        public IActionResult deleteUser(Guid id)
+        public IActionResult DeleteUser(Guid id)
         {
             _usersRepository.Delete(id);
 
