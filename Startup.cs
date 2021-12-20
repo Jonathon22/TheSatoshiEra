@@ -33,6 +33,7 @@ namespace TheSatoshiEra
             services.AddTransient<AboutRepository>();
             services.AddTransient<UserTypesRepository>();
             services.AddTransient<LibraryRepository>();
+            services.AddTransient<TutorialVideosRepository>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
